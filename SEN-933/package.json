@@ -1,7 +1,7 @@
 {
-    "name": "nodejs-aws-sns",
+    "name": "nodejs-aws-sqs",
     "version": "0.0.0",
-    "description": "NodeJs - SNS",
+    "description": "NodeJs - SQS",
     "license": "ISC",
     "dependencies": {
         "aws-sdk": "^2.0.30"
