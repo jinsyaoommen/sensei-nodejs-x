@@ -1,0 +1,9 @@
+{
+    "name": "NodeJs AWS SNS",
+    "version": "0.0.0",
+    "description": "NodeJs - SNS",
+    "license": "ISC",
+    "dependencies": {
+        "aws-sdk": "^2.0.30"
+    }
+}
