@@ -9,7 +9,7 @@ var sns = new AWS.SNS();
 
 sns.publish({
     TopicArn: snsConfig.topicArn,
-    Message: snsConfig.message
+    Message: "Testing sns subscription"
 },
 function(err, data) {
     if (err) console.log(err);
