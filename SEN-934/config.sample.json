@@ -1,0 +1,4 @@
+{
+    "streamName": "x-stream",
+    "partitionKey": "x-shard1"
+}
