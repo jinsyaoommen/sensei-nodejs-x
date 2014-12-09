@@ -1,5 +1,5 @@
 {
-    "name": "nodejs-aws-kinesis",
+    "name": "nodejs-aws",
     "version": "0.0.0",
     "description": "NodeJs - SQS",
     "license": "ISC",
