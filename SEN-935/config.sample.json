@@ -1,0 +1,5 @@
+{
+    "shardId": "shardId",
+    "streamName": "streamName",
+    "startingSequenceNumber": "sequenceNumber"
+}
